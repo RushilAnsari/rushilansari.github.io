@@ -1,0 +1,11 @@
+▲ Next.js 16.2.3 (Turbopack)
+- Local:         http://127.0.0.1:3000
+- Network:       http://127.0.0.1:3000
+✓ Ready in 2.6s
+Creating turbopack project {
+  dir: 'E:\\mohitvirli.github.io-master\\mohitvirli.github.io-master',
+  testMode: true
+}
+
+○ Compiling / ...
+ GET / 200 in 7.4s (next.js: 6.6s, application-code: 782ms)
